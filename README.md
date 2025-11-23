@@ -9,3 +9,5 @@ Los scrips acá detallados, soportan el EDA y preprocesmaiento de imagenes de po
 - La carpeta producción: contiene un script para despliegue en Hugginface
 
 **Nota** No se suben las imagenes de entrenamiento por protección de datos. Deberas crear los directorios utilizados en cada Script.   
+
+Revisa la aplicación desplegada en HuggingFace: [ergodesk app](https://jeisson46-ergodesk-customvision-mediapipe.hf.space/)
