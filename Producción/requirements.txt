@@ -1,0 +1,6 @@
+numpy==1.26.4
+mediapipe==0.10.21
+opencv-python==4.9.0.80
+requests==2.31.0
+gradio==4.44.0
+pillow==10.4.0
